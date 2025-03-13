@@ -46,7 +46,7 @@ reviews-summarizer/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your_username/reviews-summarizer.git
+   git clone https://github.com/afontanr/reviews-summarizer.git
    cd reviews-summarizer
    ```
 2. **Install Dependenciesy**
